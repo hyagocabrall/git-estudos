@@ -103,3 +103,6 @@ git checkout -d <nome_da_branch>
 # Referências
 
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
+
+# Autor
+### Hyago Cabral
