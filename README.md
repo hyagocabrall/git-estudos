@@ -40,9 +40,32 @@ git add *.txt
 
 ### Visualizando status 
 
+Exibe todos os arquivos que estão no stage e no workdir
+
+```
+git status
+```
 
 ### Comitando arquivos 
 
+Confirma as mudanças dos arquivos, além de abrir o editor de texto padrão
+
+```
+git commit
+```
+
+Confirma as mudanças dos arquivos informando a mensagem escrita
+
+```
+git commit -m "Sua mensagem"
+```
+
+Confirma as mudanças dos arquivos adicionando ao stage e informando mensagem
+Obs: Somente utilizar -am com arquivos que já tenham sido adicionados anteriormente 
+
+```
+git commit -am "sua mensagem"
+```
 
 ### Visualizar mudanças
 
@@ -58,3 +81,4 @@ git add *.txt
 
 # Referências
 
+https://rogerdudler.github.io/git-guide/index.pt_BR.html
