@@ -70,15 +70,35 @@ git commit -am "sua mensagem"
 
 ### Visualizar mudanças
 
+Mostra as alterações realizadas no arquivo
+
+```
+git diff
+```
 
 ### Criando branch
 
+Cria uma nova branch e marca ela como selecionada
+
+```
+git checkout -b <nome_da_branch>
+```
 
 ### Navegando entre a branch
 
+Permite mudar a branch selecionada
+
+```
+git checkout <nome_da_branch>
+```
 
 ### Excluindo branch
 
+Exclui a branch selecionada
+
+```
+git checkout -d <nome_da_branch>
+```
 
 # Referências
 
