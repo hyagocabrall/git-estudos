@@ -61,6 +61,7 @@ git commit -m "Sua mensagem"
 ```
 
 Confirma as mudanças dos arquivos adicionando ao stage e informando mensagem
+
 Obs: Somente utilizar -am com arquivos que já tenham sido adicionados anteriormente 
 
 ```
