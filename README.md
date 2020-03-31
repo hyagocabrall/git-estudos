@@ -20,7 +20,7 @@ git clone git@github.com:hyagocabrall/git-estudos.git
 
 ### Adicionando arquivos ao stage
 
-Adiciona um novo arquivo ao **stage** (Área temporária que indica que o arquivo está preparado para commit)
+Adiciona um novo arquivo ao **stage** (Área temporária que indica que o arquivo está preparado para commit).
 
 ```
 git add <nome-do-arquivo>
