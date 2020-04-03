@@ -1,7 +1,12 @@
 # Estudos dos comandos GIT
 
-## O que é?
+## O que é o GIT?
 
+Git é um sistema de controle de versão de arquivos. Através dele podemos desenvolver projetos no quais diversas pessoas podem contribuir simultaneamente, Editanto,  cricando novos arquivos e criando novos permitindo que os mesmos possam existir sem o risco de suas alterações serem sovrescritas.
+
+## O que é o Github?
+
+O Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. De forma resumida ele é um repositório gratuito bastante utilziado pela comunidade open source
 
 ## Como surgiu?
 
