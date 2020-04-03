@@ -6,7 +6,7 @@
 
 ## O que é o Github?
 
-O **Github** é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. De forma resumida ele é um repositório gratuito bastante utilziado pela comunidade open source
+O **Github** é um serviço web que oferece diversas funcionalidades extras aplicadas ao **git**. De forma resumida ele é um repositório gratuito bastante utilziado pela comunidade open source
 
 ## Como surgiu?
 
