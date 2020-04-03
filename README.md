@@ -2,17 +2,19 @@
 
 ## O que é o GIT?
 
-Git é um sistema de controle de versão de arquivos. Através dele podemos desenvolver projetos no quais diversas pessoas podem contribuir simultaneamente, Editanto,  cricando novos arquivos e criando novos permitindo que os mesmos possam existir sem o risco de suas alterações serem sovrescritas.
+**Git** é um sistema de controle de versão de arquivos. Através dele podemos desenvolver projetos no quais diversas pessoas podem contribuir simultaneamente, Editanto,  cricando novos arquivos e criando novos permitindo que os mesmos possam existir sem o risco de suas alterações serem sovrescritas.
 
 ## O que é o Github?
 
-O Github é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. De forma resumida ele é um repositório gratuito bastante utilziado pela comunidade open source
+O **Github** é um serviço web que oferece diversas funcionalidades extras aplicadas ao git. De forma resumida ele é um repositório gratuito bastante utilziado pela comunidade open source
 
 ## Como surgiu?
 
+**Git** surgiu a partir da necessidade de fazer o controle e gerenciamento das versões do kernel do linux, na época utilizavam o BitKeeper, entretando precisavam de uma ferramenta gratuita, tendo em vista os principios dos desenvolvedores e toda a metodologia envolvida. Torvalds (engenheiro de software), foi o desenvolvedor da ferramenta, que a colocou em uso em menos de 1 mês após seu desenvolvimento. Posteriormente passou entregou a Junio Hamano, para manter a ferramenta operante e realizar suas devidas manutenções.
 
 ## Problemas que resolve?
 
+Dentre as muitas vantagens de se utilizar controladores de versões, Você consegue verificar quem foi o ultimo a alterar o projeto e quais foram as alterações introduzidas, consegue retornar o projeto a estados anteriores salvos, e restaurar outras versões do mesmo projeto com pouquissimo trabalho, ele permite também o trabalho em paralelo, por diferentes equipes em um mesmo projeto.
 
 # Comandos mais utilizados
 
