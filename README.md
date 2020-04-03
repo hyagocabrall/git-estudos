@@ -45,6 +45,20 @@ Adiciona todos os arquivos que terminam com a extensão .txt
 git add *.txt
 ```
 
+### Enviando as alterações ### 
+
+Envia as alterações realizadas ao **Github**
+
+```
+git push origin <nome_da_branch> 
+```
+
+Envia as atualizações para o servidor remoto, caso não tenha clonado o projeto
+
+```
+git remote add origin <servidor>
+```
+
 ### Visualizando status 
 
 Exibe todos os arquivos que estão no stage e no workdir
@@ -106,6 +120,39 @@ Exclui a branch selecionada
 ```
 git checkout -d <nome_da_branch>
 ```
+
+###  Atualizando ou mesclando repositório ###
+
+Atualiza o repositório local com relação aos commit no **github**
+
+```
+git pull
+```
+
+Realiza o **merge** de outra branch para sua branch local
+
+```
+git merge <branch>
+```
+
+### Verificando e recuperando alterações locais ###
+
+Sobreescreve alterações locais
+
+```
+git checkout -- <arquivo>
+```
+
+Recupera o histórico mais recente do servidor e aponte para seu branch master local 
+
+```
+git fetch origin
+```
+
+```
+git reset --hard origin/master
+```
+
 
 # Referências
 
